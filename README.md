@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @akshayyewle
-- 👀 I’m interested in Python & Data Science...
-- 🌱 I’m currently learning Python & Data Science...
-- 💞️ I’m looking to collaborate on Python & Data Science
+- 👋 Hi, I’m Akshay Yewle @akshayyewle
+- 👀 Python | R | Data Science & Analytics | ML & AI | 
 - 📫 How to reach me akshayyewle@gmail.com
 
 <!---
