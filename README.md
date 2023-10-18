@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Yewle @akshayyewle
-- 👀 Python | R | Data Science & Analytics | ML & AI | 
+- 👀 Python | Data Analytics | Machine Learning | AI | Geospatial 
 - 📫 How to reach me akshayyewle@gmail.com
 
 <!---
