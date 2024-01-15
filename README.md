@@ -2,6 +2,8 @@
 - 👀 Python | Data Analytics | Machine Learning | AI | Geospatial 
 - 📫 How to reach me akshayyewle@gmail.com
 - ![Visitor Count](https://profile-counter.glitch.me/{akshayyewle}/count.svg)
+- ![](https://komarev.com/ghpvc/?username=akshayyewle)
+- ![](https://komarev.com/ghpvc/?username=akshayyewle&style=flat-square)
 
 <!---
 akshayyewle/akshayyewle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
